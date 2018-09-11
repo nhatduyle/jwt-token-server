@@ -89,7 +89,7 @@ A library for JWT Authenticate for AspNet Core
   {
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJBZG1pbiIsIm5iZiI6MTUzNjY0Nzk2OSwiZXhwIjoxNTM2NzM0MzY5fQ.wiRIGYxX2Kk41ix5OLSqAujEf7Stdm93kS5Ly7XXbCQ",
     "expires": 86400,
-    "refreshToken": "71acb4adb95c48dba2ca7a1895957837",
+    "refreshToken": "71acb4adb95c48dba2ca7a1895957838",
     "userId": "00000000-0000-0000-0000-000000000000",
     "tokenType": "Bearer"
   }
